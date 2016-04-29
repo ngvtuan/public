@@ -9,3 +9,4 @@ Currently there are libraries available for:
  - joomla
  - jquery
  - extjs
+ - test
